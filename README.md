@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @prx4nv
-- 👀 I’m interested in Prograamming, Cyber Security, F.S.D, Coding.
-- 🌱 I’m currently learning Full Stack Developement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ....
+- 👀 I’m interested in programming, Cyber Security, F.S.D, and Coding.
+- 🌱 I’m currently learning Full Stack Development
+- 📫 Reach me on pranavkdas71@gmail.com
 
 <!---
 prx4nv/prx4nv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
